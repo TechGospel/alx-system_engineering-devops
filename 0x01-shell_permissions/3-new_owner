@@ -1,2 +1,2 @@
 #!/bin/bash
-chown owner betty
+sudo chown betty hello
